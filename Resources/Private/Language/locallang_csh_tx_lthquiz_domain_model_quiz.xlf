@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-09-18T11:17:01Z" product-name="lth_quiz">
+		<header/>
+		<body>
+			<trans-unit id="tx_lth_quiz_domain_model_quiz">
+				<source>LTH Quiz</source>
+			</trans-unit>
+			<trans-unit id="tx_lth_quiz_domain_model_quiz.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="title.description">
+				<source>title</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="resdescription.description">
+				<source>resdescription</source>
+			</trans-unit>
+			<trans-unit id="question.description">
+				<source>question</source>
+			</trans-unit>
+			<trans-unit id="level.description">
+				<source>level</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

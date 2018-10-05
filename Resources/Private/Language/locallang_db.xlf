@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-09-18T11:17:01Z" product-name="lth_quiz">
+		<header/>
+		<body>
+			<trans-unit id="tx_lth_quiz_domain_model_quiz">
+				<source>LTH Quiz</source>
+			</trans-unit>
+			<trans-unit id="tx_lth_quiz_domain_model_quiz.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_quiz">
+				<source>Quiz</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_quiz.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_quiz.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_quiz.resdescription">
+				<source>Resdescription</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_quiz.question">
+				<source>Question</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_quiz.level">
+				<source>Level</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_question">
+				<source>Question</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_question.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_question.commentcorrect">
+				<source>Commentcorrect</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_question.commentincorrect">
+				<source>Commentincorrect</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_question.answer">
+				<source>Answer</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_answer">
+				<source>Answer</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_answer.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_answer.correct">
+				<source>Correct</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_level">
+				<source>Level</source>
+			</trans-unit>
+			<trans-unit id="tx_lthquiz_domain_model_level.title">
+				<source>Title</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
